@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # subscanner
 An innovative project that scans subdomains of websites.
 =======
@@ -58,4 +57,3 @@ This project is licensed under the [MIT License](LICENSE). For more details, ple
 
 
 If you have any questions or feedback, please feel free to reach out to me at [zedsepiol@proton.me](mailto:zedsepiol@proton.me).
->>>>>>> 338cc11 (First Commit)
