@@ -23,6 +23,7 @@ cd subscanner
 3. Install the necessary dependencies by running the following command:
 ```
 make venv
+.\venv\Scripts\activate
 make install
 ```
 
