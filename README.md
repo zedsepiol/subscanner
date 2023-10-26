@@ -10,8 +10,9 @@ This repository contains the source code for a project that scans the subdomains
 To get started with using the project, you can follow the steps below:
 
 1. Clone the project to your computer or download the ZIP file:
+```
 git clone https://github.com/zedsepiol/subscanner.git
-
+```
 
 2. Navigate to the project folder:
 ```
