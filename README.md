@@ -40,7 +40,7 @@ python . --help
 ## Features
 
 - Subdomain scanning
-- Saving results to a CSV file
+- Saving results to a txt file
 
 
 ## Contributing
